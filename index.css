@@ -1,0 +1,125 @@
+body {
+    font-family: 'poppinsa', sans-serif;
+    margin: 0%;
+}
+
+
+
+h1 {
+    font-size: 30px;
+}
+
+
+
+.name-logo {
+    color: chocolate;
+    font-size: 40px;
+}
+
+
+
+.Section-1 {
+    display: flex;
+    background-image: url(image/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+
+
+
+.section-part-1 {
+    width: 60%;
+    padding-left: 3%;
+    padding-top: 3%;
+}
+
+
+
+.here-me-batton {
+    text-decoration: none;
+    background-image: linear-gradient(orange, black);
+    padding: 10px 40px;
+    border-radius: 5Px;
+    color: aliceblue;
+    font-weight: 700;
+}
+
+
+
+
+.section-part-2 {
+    width: 50%;
+    padding: 5%;
+}
+
+
+
+
+.section-part-2 img {
+    width: 110%;
+    margin: 0%;
+}
+
+.section-2 {
+    display: flex;
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+
+
+.section-1-part-1 {
+    width: 50%;
+    padding: 5%;
+}
+
+.section-1-part-1 img {
+    width: 100%;
+    margin: 0%;
+}
+
+.section-1-part-2 {
+
+    width: 110%;
+    padding-left: 3%;
+    padding-top: 3%;
+}
+
+.section-Favorite-Item {
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.section-3-flex {
+    display: flex;
+}
+
+
+.Tasfia-favorite {
+    width: 50%;
+    margin: 5%;
+    padding-left: 20px;
+    padding-right: 40px;
+    box-shadow: 10px 20px 30px black;
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, rgb(6, 248, 208));
+    border-image-slice: 1;
+}
+
+
+.Mahafuz-favorite {
+    width: 50%;
+    margin: 5%;
+    padding-left: 20px;
+    padding-right: 40px;
+    box-shadow: 10px 20px 30px black;
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, rgb(6, 248, 208));
+    border-image-slice: 1;
+}
+
+footer p {
+    text-align: center;
+}
